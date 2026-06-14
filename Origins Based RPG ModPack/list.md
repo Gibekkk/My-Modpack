@@ -1,6 +1,6 @@
-###Name: Origins Based RPG ModPack
-##Loader: Fabric
-##Version: 1.20.1
+### Name: Origins Based RPG ModPack
+## Loader: Fabric
+## Version: 1.20.1
 
 Serveride:
 - Fabric API | https://modrinth.com/mod/fabric-api
