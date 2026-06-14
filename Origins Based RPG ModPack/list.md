@@ -83,6 +83,10 @@ Serveride:
 - Enchanting Infuser | https://modrinth.com/mod/enchanting-infuser
 - Incendium | https://modrinth.com/datapack/incendium
 - Sawmill | https://modrinth.com/mod/universal-sawmill
+- LambDynamicLights | https://modrinth.com/mod/lambdynamiclights
+- Radiant Gear | https://modrinth.com/mod/radiant-gear
+- Curios API | https://modrinth.com/mod/curios
+- Wearable Lanterns | https://modrinth.com/mod/wearable-lanterns
 
 ---
 
