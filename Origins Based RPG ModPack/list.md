@@ -68,6 +68,7 @@ Serveride:
 - Alex's Caves Refabricated | https://www.curseforge.com/minecraft/mc-mods/alexs-caves-refabricated
 - Yung's Better Ocean Monuments | https://modrinth.com/mod/yungs-better-ocean-monuments
 - Aquamirae | https://modrinth.com/mod/aquamirae
+- Animal Weight | https://modrinth.com/mod/animal-weight
 
 ---
 
