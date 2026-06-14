@@ -89,6 +89,7 @@ Serveride:
 - Wearable Lanterns | https://modrinth.com/mod/wearable-lanterns
 - Charm of Undying | https://modrinth.com/mod/charm-of-undying
 - Pillager Caravans | https://www.curseforge.com/minecraft/mc-mods/pillager-caravans
+- RPG Minibosses Forsaken Adventurers (RPG Series) | https://www.curseforge.com/minecraft/mc-mods/rpg-minibosses-forsaken-adventurers
 
 ---
 
