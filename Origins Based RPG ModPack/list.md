@@ -34,7 +34,7 @@ Serveride:
 - Combat Roll | https://modrinth.com/mod/combat-roll
 - Simply Swords | https://www.curseforge.com/minecraft/mc-mods/simply-swords
 - Panda's Falling Trees | https://modrinth.com/mod/pandas-falling-trees
-- VeinMiner | https://modrinth.com/mod/veinminer
+- Ore Harvester | https://modrinth.com/mod/ore-harvester
 - Just Enough Items | https://www.curseforge.com/minecraft/mc-mods/jei
 - Xaero's MiniMap | https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap
 - Farmer's Delight Refabricated | https://modrinth.com/mod/farmers-delight-refabricated
