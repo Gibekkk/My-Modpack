@@ -84,5 +84,4 @@ Clientside:
 - ModMenu | https://www.curseforge.com/minecraft/mc-mods/modmenu
 - Falling Leaves | https://modrinth.com/mod/fallingleaves
 - DripSounds | https://modrinth.com/mod/dripsounds
-- 3D Skin Layers | https://modrinth.com/mod/3dskinlayers
 - Continuity | https://modrinth.com/mod/continuity
