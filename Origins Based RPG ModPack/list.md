@@ -80,6 +80,7 @@ Serveride:
 - Towns and Towers | https://modrinth.com/mod/towns-and-towers
 - Villages and Pillages | https://modrinth.com/mod/villages-and-pillages
 - Jade | https://modrinth.com/mod/jade
+- Enchanting Infuser | https://modrinth.com/mod/enchanting-infuser
 
 ---
 
