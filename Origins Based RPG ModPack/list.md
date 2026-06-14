@@ -61,6 +61,8 @@ Serveride:
 - Backpacked Fabric | https://www.curseforge.com/minecraft/mc-mods/backpacked-fabric
 - Sophisticated Storage (Unofficial Fabric Port) | https://modrinth.com/mod/sophisticated-storage-(unofficial-fabric-port)
 - Sophisticated Core (Unofficial Fabric Port) | https://modrinth.com/mod/sophisticated-core-(unofficial-fabric-port)
+- TerraBlender | https://modrinth.com/mod/terrablender
+- Biomes O' Plenty | https://modrinth.com/mod/biomes-o-plenty
 
 ---
 
