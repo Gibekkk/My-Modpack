@@ -74,6 +74,7 @@ Serveride:
 - Creatures and Beasts | https://modrinth.com/mod/creatures-and-beasts
 - Stellarity | https://modrinth.com/datapack/stellarity
 - End Remastered | https://modrinth.com/mod/endrem
+- Trade Cycling | https://modrinth.com/mod/trade-cycling
 
 ---
 
