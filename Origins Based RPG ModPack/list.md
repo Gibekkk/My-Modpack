@@ -63,6 +63,11 @@ Serveride:
 - Sophisticated Core (Unofficial Fabric Port) | https://modrinth.com/mod/sophisticated-core-(unofficial-fabric-port)
 - TerraBlender | https://modrinth.com/mod/terrablender
 - Biomes O' Plenty | https://modrinth.com/mod/biomes-o-plenty
+- When Dungeons Arise: Seven Seas | https://modrinth.com/mod/when-dungeons-arise-seven-seas
+- Small Ships | https://modrinth.com/mod/small-ships
+- Alex's Caves Refabricated | https://www.curseforge.com/minecraft/mc-mods/alexs-caves-refabricated
+- Yung's Better Ocean Monuments | https://modrinth.com/mod/yungs-better-ocean-monuments
+- Aquamirae | https://modrinth.com/mod/aquamirae
 
 ---
 
