@@ -69,6 +69,11 @@ Serveride:
 - Yung's Better Ocean Monuments | https://modrinth.com/mod/yungs-better-ocean-monuments
 - Aquamirae | https://modrinth.com/mod/aquamirae
 - Animal Weight | https://modrinth.com/mod/animal-weight
+- Moog's End Structures | https://modrinth.com/mod/mes-moogs-end-structures
+- Ender Villages | https://modrinth.com/mod/ender-villages
+- Creatures and Beasts | https://modrinth.com/mod/creatures-and-beasts
+- Stellarity | https://modrinth.com/datapack/stellarity
+- End Remastered | https://modrinth.com/mod/endrem
 
 ---
 
