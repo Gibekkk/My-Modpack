@@ -81,6 +81,8 @@ Serveride:
 - Villages and Pillages | https://modrinth.com/mod/villages-and-pillages
 - Jade | https://modrinth.com/mod/jade
 - Enchanting Infuser | https://modrinth.com/mod/enchanting-infuser
+- Incendium | https://modrinth.com/datapack/incendium
+- Sawmill | https://modrinth.com/mod/universal-sawmill
 
 ---
 
