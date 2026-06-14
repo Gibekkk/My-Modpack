@@ -37,6 +37,7 @@ Serveride:
 - Ore Harvester | https://modrinth.com/mod/ore-harvester
 - Just Enough Items | https://www.curseforge.com/minecraft/mc-mods/jei
 - Xaero's MiniMap | https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap
+- Xaero's World Map | https://modrinth.com/mod/xaeros-world-map
 - Farmer's Delight Refabricated | https://modrinth.com/mod/farmers-delight-refabricated
 - Nether's Delight Fabric | https://www.curseforge.com/minecraft/mc-mods/nethers-delight-fabric
 - End's Delight | https://www.curseforge.com/minecraft/mc-mods/ends-delight
