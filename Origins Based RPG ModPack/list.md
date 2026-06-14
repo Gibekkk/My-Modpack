@@ -79,6 +79,7 @@ Serveride:
 - Universal Bone Meal | https://modrinth.com/mod/universal-bone-meal
 - Towns and Towers | https://modrinth.com/mod/towns-and-towers
 - Villages and Pillages | https://modrinth.com/mod/villages-and-pillages
+- Jade | https://modrinth.com/mod/jade
 
 ---
 
