@@ -75,6 +75,9 @@ Serveride:
 - Stellarity | https://modrinth.com/datapack/stellarity
 - End Remastered | https://modrinth.com/mod/endrem
 - Trade Cycling | https://modrinth.com/mod/trade-cycling
+- Universal Bone Meal | https://modrinth.com/mod/universal-bone-meal
+- Towns and Towers | https://modrinth.com/mod/towns-and-towers
+- Villages and Pillages | https://modrinth.com/mod/villages-and-pillages
 
 ---
 
