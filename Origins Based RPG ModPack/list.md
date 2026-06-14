@@ -87,6 +87,7 @@ Serveride:
 - Radiant Gear | https://modrinth.com/mod/radiant-gear
 - Curios API | https://modrinth.com/mod/curios
 - Wearable Lanterns | https://modrinth.com/mod/wearable-lanterns
+- Charm of Undying | https://modrinth.com/mod/charm-of-undying
 
 ---
 
