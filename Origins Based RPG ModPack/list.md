@@ -1,6 +1,8 @@
-### Name: Origins Based RPG ModPack
-## Loader: Fabric
-## Version: 1.20.1
+## Name: Origins Based RPG ModPack
+### Loader: Fabric
+### Version: 1.20.1
+
+---
 
 Serveride:
 - Fabric API | https://modrinth.com/mod/fabric-api
@@ -57,6 +59,8 @@ Serveride:
 - Lootr | https://modrinth.com/mod/lootr
 - Heartstone | https://www.curseforge.com/minecraft/mc-mods/heartstone
 - Backpacked Fabric | https://www.curseforge.com/minecraft/mc-mods/backpacked-fabric
+
+---
 
 Clientside:
 - Freecam | https://modrinth.com/mod/freecam
