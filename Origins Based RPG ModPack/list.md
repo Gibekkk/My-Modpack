@@ -90,6 +90,11 @@ Serveride:
 - Charm of Undying | https://modrinth.com/mod/charm-of-undying
 - Pillager Caravans | https://www.curseforge.com/minecraft/mc-mods/pillager-caravans
 - RPG Minibosses Forsaken Adventurers (RPG Series) | https://www.curseforge.com/minecraft/mc-mods/rpg-minibosses-forsaken-adventurers
+- Ember's Floating Islands | https://modrinth.com/mod/embers-floating-islands
+- Sky Whale Ship | https://www.curseforge.com/minecraft/mc-mods/sky-whale-ship
+- Sky Villages | https://www.curseforge.com/minecraft/mc-mods/sky-villages-fabric
+- Immersive Aircraft | https://modrinth.com/mod/immersive-aircraft
+- FowlPlay | https://modrinth.com/mod/fowlplay
 
 ---
 
