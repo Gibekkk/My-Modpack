@@ -97,6 +97,9 @@ Serveride:
 - FowlPlay | https://modrinth.com/mod/fowlplay
 - Dungeons and Taverns | https://modrinth.com/datapack/dungeons-and-taverns
 - Immersive Structures | https://modrinth.com/datapack/immersive-structures
+- Respackopts | https://modrinth.com/mod/respackopts
+- Punchy! | https://modrinth.com/mod/punchy-fpa
+- Hyper Punchy | https://modrinth.com/resourcepack/hyper-punchy
 
 ---
 
