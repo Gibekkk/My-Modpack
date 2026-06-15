@@ -96,6 +96,7 @@ Serveride:
 - Immersive Aircraft | https://modrinth.com/mod/immersive-aircraft
 - FowlPlay | https://modrinth.com/mod/fowlplay
 - Dungeons and Taverns | https://modrinth.com/datapack/dungeons-and-taverns
+- Immersive Structures | https://modrinth.com/datapack/immersive-structures
 
 ---
 
