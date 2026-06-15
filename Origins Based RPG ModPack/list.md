@@ -1,12 +1,12 @@
 ## Name: Origins Based RPG ModPack
 ### Loader: Fabric
 ### Version: 1.20.1
+### Access Link: https://drive.google.com/drive/u/0/folders/1qtATRkDX8KOArVHDiQwjAITG8-atbM0k
 
 ---
 
-Serveride:
+Serverside:
 - Fabric API | https://modrinth.com/mod/fabric-api
-- Show Me What You Got | https://www.curseforge.com/minecraft/mc-mods/show-me-what-you-got
 - Origins | https://www.curseforge.com/minecraft/mc-mods/origins
 - Extra Origins | https://www.curseforge.com/minecraft/mc-mods/extra-origins
 - DND Origins | https://www.curseforge.com/minecraft/mc-mods/dungeons-and-dragons-origins
@@ -19,84 +19,78 @@ Serveride:
 - Archers (RPG Series) | https://modrinth.com/mod/archers
 - Gazebos (RPG Series) | https://modrinth.com/mod/gazebos
 - Rogues & Warriors (RPG Series) | https://modrinth.com/mod/rogues-and-warriors
+- Death Knights (RPG Series) | https://modrinth.com/mod/death-knights
 - Azurelib Armor | https://www.curseforge.com/minecraft/mc-mods/azurelib-armor
 - Spell Power Attributes | https://modrinth.com/mod/spell-power
+- Spell Engine | https://modrinth.com/mod/spell-engine
+- Extra Spell Attributes | https://modrinth.com/mod/extra-spell-attributes
+- Eternal Attributes | https://modrinth.com/mod/eternal-attributes
 - Ranged Weapon API | https://modrinth.com/mod/ranged-weapon-api
 - Trinkets | https://modrinth.com/mod/trinkets
-- Spell Engine | https://modrinth.com/mod/spell-engine
+- Accessories | https://modrinth.com/mod/accessories
+- Trinket Lantern | https://modrinth.com/mod/trinket-lantern
 - Cloth Config API | https://modrinth.com/mod/cloth-config
 - PlayerAnimator | https://modrinth.com/mod/playeranimator
 - Better Combat | https://modrinth.com/mod/better-combat
 - Necronomicon API | https://www.curseforge.com/minecraft/mc-mods/necronomicon
-- Death Knights (RPG Series) | https://modrinth.com/mod/death-knights
 - Combat Roll | https://modrinth.com/mod/combat-roll
 - Simply Swords | https://www.curseforge.com/minecraft/mc-mods/simply-swords
+- Epic Knights: Shields, Armor and Weapons | https://www.curseforge.com/minecraft/mc-mods/epic-knights-armor-and-weapons
+- Punchy! | https://modrinth.com/mod/punchy-fpa
 - Panda's Falling Trees | https://modrinth.com/mod/pandas-falling-trees
 - Ore Harvester | https://modrinth.com/mod/ore-harvester
-- Just Enough Items | https://www.curseforge.com/minecraft/mc-mods/jei
-- Xaero's MiniMap | https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap
-- Xaero's World Map | https://modrinth.com/mod/xaeros-world-map
+- Radiant Gear | https://modrinth.com/mod/radiant-gear
+- Charm of Undying | https://modrinth.com/mod/charm-of-undying
+- Enchanting Infuser | https://modrinth.com/mod/enchanting-infuser
+- Sawmill | https://modrinth.com/mod/universal-sawmill
+- Jade | https://modrinth.com/mod/jade
 - Farmer's Delight Refabricated | https://modrinth.com/mod/farmers-delight-refabricated
 - Nether's Delight (Fabric) | https://www.curseforge.com/minecraft/mc-mods/nethers-delight-fabric
 - End's Delight | https://www.curseforge.com/minecraft/mc-mods/ends-delight
 - Display Delight Fabric | https://modrinth.com/mod/display-delight-fabric
 - Ocean's Delight | https://www.curseforge.com/minecraft/mc-mods/oceans-delight
 - Spice Of Fabric | https://www.curseforge.com/minecraft/mc-mods/spice-of-fabric
-- Target Dummy (mmmmmmmmmmmm)| https://modrinth.com/mod/mmmmmmmmmmmm
+- FowlPlay | https://modrinth.com/mod/fowlplay
+- Target Dummy (mmmmmmmmmmmm) | https://modrinth.com/mod/mmmmmmmmmmmm
 - Carry On | https://modrinth.com/mod/carry-on
 - RightClickHarvest | https://modrinth.com/mod/rightclickharvest
-- Visual Workbench | https://modrinth.com/mod/visual-workbench
 - Sleep Tight | https://modrinth.com/mod/sleep-tight
 - Immersive Melodies | https://modrinth.com/mod/immersive-melodies
 - Enhanced Celestials | https://modrinth.com/mod/enhanced-celestials
-- Emotecraft | https://modrinth.com/plugin/emotecraft
 - Immersive Weathering | https://modrinth.com/mod/immersive-weathering
-- Sound Physics Remastered | https://modrinth.com/mod/sound-physics-remastered
 - Supplementaries | https://modrinth.com/mod/supplementaries
 - Amendments | https://modrinth.com/mod/amendments
-- Corpse | https://www.curseforge.com/minecraft/mc-mods/corpse
+- Graves | https://modrinth.com/mod/graves
 - Lootr | https://modrinth.com/mod/lootr
 - Heartstone | https://www.curseforge.com/minecraft/mc-mods/heartstone
 - Backpacked (Fabric) | https://www.curseforge.com/minecraft/mc-mods/backpacked-fabric
 - Sophisticated Storage (Unofficial Fabric Port) | https://modrinth.com/mod/sophisticated-storage-(unofficial-fabric-port)
 - Sophisticated Core (Unofficial Fabric Port) | https://modrinth.com/mod/sophisticated-core-(unofficial-fabric-port)
+- Pillager Caravans | https://www.curseforge.com/minecraft/mc-mods/pillager-caravans
+- Trade Cycling | https://modrinth.com/mod/trade-cycling
+- Universal Bone Meal | https://modrinth.com/mod/universal-bone-meal
+- Animal Weight | https://modrinth.com/mod/animal-weight
 - TerraBlender | https://modrinth.com/mod/terrablender
 - Biomes O' Plenty | https://modrinth.com/mod/biomes-o-plenty
 - When Dungeons Arise - Seven Seas | https://modrinth.com/mod/when-dungeons-arise-seven-seas
 - Small Ships | https://modrinth.com/mod/small-ships
+- Immersive Aircraft | https://modrinth.com/mod/immersive-aircraft
 - Yung's Better Ocean Monuments | https://modrinth.com/mod/yungs-better-ocean-monuments
 - Aquamirae | https://modrinth.com/mod/aquamirae
-- Animal Weight | https://modrinth.com/mod/animal-weight
+- Creatures n' Beasts | https://www.curseforge.com/minecraft/mc-mods/creatures-n-beasts
+- Deimos | https://modrinth.com/mod/deimos
+- Fragmentum | https://modrinth.com/mod/fragmentum
 - Moog's End Structures | https://modrinth.com/mod/mes-moogs-end-structures
-- Ender Villages | https://modrinth.com/mod/ender-villages
-- Creatures and Beasts Continued | https://www.curseforge.com/minecraft/mc-mods/creatures-and-beasts-continued
+- Moog's Voyager Structures | https://modrinth.com/mod/moogs-voyager-structures
 - Stellarity | https://modrinth.com/datapack/stellarity
 - End Remastered | https://modrinth.com/mod/endrem
-- Trade Cycling | https://modrinth.com/mod/trade-cycling
-- Universal Bone Meal | https://modrinth.com/mod/universal-bone-meal
-- Towns and Towers | https://modrinth.com/mod/towns-and-towers
-- Villages&Pillages | https://modrinth.com/mod/villages-and-pillages
-- Jade | https://modrinth.com/mod/jade
-- Enchanting Infuser | https://modrinth.com/mod/enchanting-infuser
 - Incendium | https://modrinth.com/datapack/incendium
-- Sawmill | https://modrinth.com/mod/universal-sawmill
-- LambDynamicLights | https://modrinth.com/mod/lambdynamiclights
-- Radiant Gear | https://modrinth.com/mod/radiant-gear
-- Curios API | https://modrinth.com/mod/curios
-- Wearable Lanterns | https://modrinth.com/mod/wearable-lanterns
-- Charm of Undying | https://modrinth.com/mod/charm-of-undying
-- Pillager Caravans | https://www.curseforge.com/minecraft/mc-mods/pillager-caravans
-- ANARCHY Minibosses (RPG Series Plus) | https://www.curseforge.com/minecraft/mc-mods/rpg-minibosses-forsaken-adventurers
+- Towns and Towers | https://modrinth.com/mod/towns-and-towers
+- Villages & Pillages | https://modrinth.com/mod/villages-and-pillages
 - Ember's Floating Islands | https://modrinth.com/mod/embers-floating-islands
-- Sky Whale Ship | https://www.curseforge.com/minecraft/mc-mods/sky-whale-ship
 - Sky Villages | https://www.curseforge.com/minecraft/mc-mods/sky-villages-fabric
-- Immersive Aircraft | https://modrinth.com/mod/immersive-aircraft
-- FowlPlay | https://modrinth.com/mod/fowlplay
 - Dungeons and Taverns | https://modrinth.com/datapack/dungeons-and-taverns
 - Immersive Structures | https://modrinth.com/datapack/immersive-structures
-- Respackopts | https://modrinth.com/mod/respackopts
-- Punchy! | https://modrinth.com/mod/punchy-fpa
-- Epic Knights: Shields, Armor and Weapons [Fabric/Forge/NeoForge] | https://www.curseforge.com/minecraft/mc-mods/epic-knights-armor-and-weapons
 
 ---
 
@@ -104,7 +98,31 @@ Clientside:
 - Freecam | https://modrinth.com/mod/freecam
 - AmbientSounds | https://modrinth.com/mod/ambientsounds
 - ImmersiveThunder | https://modrinth.com/mod/immersivethunder
-- ModMenu | https://www.curseforge.com/minecraft/mc-mods/modmenu
+- Drip Sounds | https://modrinth.com/mod/dripsounds
+- Sound Physics Remastered | https://modrinth.com/mod/sound-physics-remastered
+- Aquamirae Boss Music Tweaks | https://www.curseforge.com/minecraft/mc-mods/aquamirae-boss-music-tweaks
 - Falling Leaves | https://modrinth.com/mod/fallingleaves
-- DripSounds | https://modrinth.com/mod/dripsounds
 - Continuity | https://modrinth.com/mod/continuity
+- LambDynamicLights | https://modrinth.com/mod/lambdynamiclights
+- Sodium | https://modrinth.com/mod/sodium
+- Sodium Extra | https://modrinth.com/mod/sodium-extra
+- Indium | https://modrinth.com/mod/indium
+- ImmediatelyFast | https://modrinth.com/mod/immediatelyfast
+- Dynamic FPS | https://modrinth.com/mod/dynamic-fps
+- FPS Reducer 2 | https://www.curseforge.com/minecraft/mc-mods/fps-reducer
+- ModMenu | https://www.curseforge.com/minecraft/mc-mods/modmenu
+- Emotecraft | https://modrinth.com/plugin/emotecraft
+- Respackopts | https://modrinth.com/mod/respackopts
+- Visual Workbench | https://modrinth.com/mod/visual-workbench
+- Just Enough Items | https://www.curseforge.com/minecraft/mc-mods/jei
+- Xaero's MiniMap | https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap
+- Xaero's World Map | https://modrinth.com/mod/xaeros-world-map
+- Show Me What You Got | https://www.curseforge.com/minecraft/mc-mods/show-me-what-you-got
+- Better Armor HUD | https://modrinth.com/mod/better-armor-hud
+- Better Ping Display | https://modrinth.com/mod/better-ping-display-fabric
+- Mob Health Bar | https://modrinth.com/mod/mob-health-bar
+- Exp Counter | https://modrinth.com/mod/exp-counter
+- Status Effect Timer | https://modrinth.com/mod/status-effect-timer
+- Simply Tooltips | https://modrinth.com/mod/simplytooltips
+- Durability Tooltip | https://modrinth.com/mod/durability-tooltip
+- TL Skin Cape | https://www.curseforge.com/minecraft/mc-mods/tl-skin-cape-fabric
