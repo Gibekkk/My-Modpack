@@ -95,6 +95,7 @@ Serveride:
 - Sky Villages | https://www.curseforge.com/minecraft/mc-mods/sky-villages-fabric
 - Immersive Aircraft | https://modrinth.com/mod/immersive-aircraft
 - FowlPlay | https://modrinth.com/mod/fowlplay
+- Dungeons and Taverns | https://modrinth.com/datapack/dungeons-and-taverns
 
 ---
 
