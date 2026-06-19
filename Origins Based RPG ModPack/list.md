@@ -60,7 +60,7 @@
 
 ### Server-Side Gameplay
 - Dungeons Difficulty | https://modrinth.com/mod/dungeon-difficulty
-- Graves | https://modrinth.com/mod/graves
+- Graves | https://www.curseforge.com/minecraft/mc-mods/player-corpse
 - Lootr | https://modrinth.com/mod/lootr
 - Ore Harvester | https://modrinth.com/mod/ore-harvester
 - RightClickHarvest | https://modrinth.com/mod/rightclickharvest
