@@ -8,22 +8,7 @@
 ## 🖥️ Server Only
 > Mod ini hanya perlu diinstall di **server**. Client tidak perlu.
 
-### Datapacks & World Gen
-- Dungeons and Taverns | https://modrinth.com/datapack/dungeons-and-taverns
-- Immersive Structures | https://modrinth.com/datapack/immersive-structures
-- Incendium | https://modrinth.com/datapack/incendium
-- Stellarity | https://modrinth.com/datapack/stellarity
-
-### Server-Side Gameplay
-- Dungeons Difficulty | *(local mod)*
-- Graves | https://modrinth.com/mod/graves
-- Lootr | https://modrinth.com/mod/lootr
-- Ore Harvester | https://modrinth.com/mod/ore-harvester
-- RightClickHarvest | https://modrinth.com/mod/rightclickharvest
-- Sawmill | https://modrinth.com/mod/universal-sawmill
-- Sleep Tight | https://modrinth.com/mod/sleep-tight
-- Trade Cycling | https://modrinth.com/mod/trade-cycling
-- Universal Bone Meal | https://modrinth.com/mod/universal-bone-meal
+*(Kosong — semua mod yang sebelumnya server-only sekarang juga ada di folder client-only. Lihat Both Side.)*
 
 ---
 
@@ -35,7 +20,6 @@
 - Fabric Language Kotlin | https://modrinth.com/mod/fabric-language-kotlin
 - Architectury API | https://modrinth.com/mod/architectury-api
 - Cloth Config API | https://modrinth.com/mod/cloth-config
-- YetAnotherConfigLib | https://modrinth.com/mod/yacl
 - Forge Config API Port | https://modrinth.com/mod/forge-config-api-port
 - GeckoLib | https://modrinth.com/mod/geckolib
 - AzureLib | https://modrinth.com/mod/azurelib
@@ -46,7 +30,6 @@
 - Collective | https://modrinth.com/mod/collective
 - CrystalLib | https://modrinth.com/mod/cristellib
 - Corgilib | https://modrinth.com/mod/corgilib
-- CreativeCore | https://modrinth.com/mod/creativecore
 - oωo (owo-lib) | https://modrinth.com/mod/owo-lib
 - Porting Lib | https://modrinth.com/mod/porting-lib
 - Necronomicon API | https://www.curseforge.com/minecraft/mc-mods/necronomicon
@@ -69,7 +52,23 @@
 - Citadel | https://modrinth.com/mod/citadel
 - Faewulf Lib | *(local mod)*
 - Lithostitched | https://modrinth.com/mod/lithostitched
-- PlayerAnimator | https://modrinth.com/mod/playeranimator
+
+### Datapacks & World Gen
+- Dungeons and Taverns | https://modrinth.com/datapack/dungeons-and-taverns
+- Incendium | https://modrinth.com/datapack/incendium
+- Stellarity | https://modrinth.com/datapack/stellarity
+- Immersive Structures | https://modrinth.com/datapack/immersive-structures *(pure datapack, cek folder world/datapacks, bukan folder mod)*
+
+### Server-Side Gameplay
+- Dungeons Difficulty | *(local mod)*
+- Graves | https://modrinth.com/mod/graves
+- Lootr | https://modrinth.com/mod/lootr
+- Ore Harvester | https://modrinth.com/mod/ore-harvester
+- RightClickHarvest | https://modrinth.com/mod/rightclickharvest
+- Sawmill | https://modrinth.com/mod/universal-sawmill
+- Sleep Tight | https://modrinth.com/mod/sleep-tight
+- Trade Cycling | https://modrinth.com/mod/trade-cycling
+- Universal Bone Meal | https://modrinth.com/mod/universal-bone-meal
 
 ### Origins
 - Origins | https://www.curseforge.com/minecraft/mc-mods/origins
@@ -136,6 +135,7 @@
 - Deimos | https://modrinth.com/mod/deimos
 - Fragmentum | https://modrinth.com/mod/fragmentum
 - Aquamirae | https://modrinth.com/mod/aquamirae
+- Aquamirae Boss Music Tweaks | https://www.curseforge.com/minecraft/mc-mods/aquamirae-boss-music-tweaks
 
 ### Food & Farming
 - Farmer's Delight Refabricated | https://modrinth.com/mod/farmers-delight-refabricated
@@ -169,7 +169,7 @@
 ### Gameplay
 - Immersive Melodies | https://modrinth.com/mod/immersive-melodies
 - Target Dummy (mmmmmmmmmmmm) | https://modrinth.com/mod/mmmmmmmmmmmm
-- Jade | https://modrinth.com/mod/jade
+- Visual Workbench | https://modrinth.com/mod/visual-workbench
 
 ### Mobs
 - Creatures n' Beasts | https://www.curseforge.com/minecraft/mc-mods/creatures-n-beasts
@@ -179,6 +179,11 @@
 ## 💻 Client Only
 > Mod ini hanya perlu diinstall di **client**. Server tidak perlu.
 
+### Dependencies & Libraries
+- YetAnotherConfigLib | https://modrinth.com/mod/yacl
+- CreativeCore | https://modrinth.com/mod/creativecore
+- PlayerAnimator | https://modrinth.com/mod/playeranimator
+
 ### Performance
 - Sodium | https://modrinth.com/mod/sodium
 - Sodium Extra | https://modrinth.com/mod/sodium-extra
@@ -186,19 +191,18 @@
 - ImmediatelyFast | https://modrinth.com/mod/immediatelyfast
 - Dynamic FPS | https://modrinth.com/mod/dynamic-fps
 - FPS Reducer 2 | https://www.curseforge.com/minecraft/mc-mods/fps-reducer
+- EntityCulling | https://modrinth.com/mod/entityculling
 
 ### Visuals
 - Falling Leaves | https://modrinth.com/mod/fallingleaves
 - Continuity | https://modrinth.com/mod/continuity
 - LambDynamicLights | https://modrinth.com/mod/lambdynamiclights
-- Visual Workbench | https://modrinth.com/mod/visual-workbench
 
 ### Sound
 - AmbientSounds | https://modrinth.com/mod/ambientsounds
 - ImmersiveThunder | https://modrinth.com/mod/immersivethunder
 - Drip Sounds | https://modrinth.com/mod/dripsounds
 - Sound Physics Remastered | https://modrinth.com/mod/sound-physics-remastered
-- Aquamirae Boss Music Tweaks | https://www.curseforge.com/minecraft/mc-mods/aquamirae-boss-music-tweaks
 
 ### HUD & UI
 - Better Armor HUD | https://modrinth.com/mod/better-armor-hud
@@ -209,6 +213,8 @@
 - Simply Tooltips | https://modrinth.com/mod/simplytooltips
 - Durability Tooltip | https://modrinth.com/mod/durability-tooltip
 - Show Me What You Got | https://www.curseforge.com/minecraft/mc-mods/show-me-what-you-got
+- Jade | https://modrinth.com/mod/jade
+- Pick Up Notifier | https://modrinth.com/mod/pick-up-notifier
 
 ### Map
 - Xaero's Minimap | https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap
@@ -217,7 +223,7 @@
 ### Utility
 - Freecam | https://modrinth.com/mod/freecam
 - ModMenu | https://www.curseforge.com/minecraft/mc-mods/modmenu
+- ModMenu Badges Lib | https://modrinth.com/mod/modmenu-badges-lib
 - Emotecraft | https://modrinth.com/plugin/emotecraft
 - Respackopts | https://modrinth.com/mod/respackopts
 - Just Enough Items | https://www.curseforge.com/minecraft/mc-mods/jei
-- TL Skin Cape | https://www.curseforge.com/minecraft/mc-mods/tl-skin-cape-fabric
