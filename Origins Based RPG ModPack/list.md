@@ -50,7 +50,7 @@
 - FerriteCore | https://modrinth.com/mod/ferrite-core
 - Biolith | https://modrinth.com/mod/biolith
 - Citadel | https://modrinth.com/mod/citadel
-- Faewulf Lib | *(local mod)*
+- Faewulf Lib | https://modrinth.com/mod/faewulfslib
 - Lithostitched | https://modrinth.com/mod/lithostitched
 
 ### Datapacks & World Gen
@@ -145,7 +145,7 @@
 - Display Delight Fabric | https://modrinth.com/mod/display-delight-fabric
 - Chef's Delight | https://modrinth.com/mod/chefs-delight
 - Cultural Delights | https://modrinth.com/mod/cultural-delights
-- Jaden's Nether Expansion Delight | *(local mod)*
+- Jaden's Nether Expansion Delight | https://www.curseforge.com/minecraft/mc-mods/jadens-nether-expansion-delight
 - Spice Of Fabric | https://www.curseforge.com/minecraft/mc-mods/spice-of-fabric
 - FowlPlay | https://modrinth.com/mod/fowlplay
 
