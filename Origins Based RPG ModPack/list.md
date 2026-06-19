@@ -57,7 +57,6 @@
 - Dungeons and Taverns | https://modrinth.com/datapack/dungeons-and-taverns
 - Incendium | https://modrinth.com/datapack/incendium
 - Stellarity | https://modrinth.com/datapack/stellarity
-- Immersive Structures | https://modrinth.com/datapack/immersive-structures *(pure datapack, cek folder world/datapacks, bukan folder mod)*
 
 ### Server-Side Gameplay
 - Dungeons Difficulty | *(local mod)*
