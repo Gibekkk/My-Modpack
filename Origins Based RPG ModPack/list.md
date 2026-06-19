@@ -59,7 +59,7 @@
 - Stellarity | https://modrinth.com/datapack/stellarity
 
 ### Server-Side Gameplay
-- Dungeons Difficulty | *(local mod)*
+- Dungeons Difficulty | https://modrinth.com/mod/dungeon-difficulty
 - Graves | https://modrinth.com/mod/graves
 - Lootr | https://modrinth.com/mod/lootr
 - Ore Harvester | https://modrinth.com/mod/ore-harvester
